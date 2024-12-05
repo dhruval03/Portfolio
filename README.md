@@ -2,7 +2,7 @@
 
 This is a personal portfolio project showcasing my skills and work. It highlights various web development projects and demonstrates my proficiency in front-end technologies.
 
-## Instalação
+## Installation
 
 Clone this repository, then open the `index.html`
 
