@@ -715,7 +715,7 @@ div.job {
   padding-top: 15px;
   background-color: #2a3443;
   width: 350px;
-  height: 445px;
+  height: 445px !important;
   border-radius: 10px;
   margin-bottom: 50px;
   text-align: justify;
